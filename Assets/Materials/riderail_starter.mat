@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: riderail_starter
+  m_Shader: {fileID: -6465566751694194690, guid: 13732c5fca856244ea1c8b2b06fed94c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_52cbf6e5037f4abda31cd5a894734371:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_24ca46e3b3ac4bf9977d254ecbc80a80_Out_0:
+        m_Texture: {fileID: 2800000, guid: abbd2b99cb2d7ec4d93377593c3e8598, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_6bddbe9c484148f0b5e9a8fe4e398a0c_Out_0:
+        m_Texture: {fileID: 2800000, guid: 45006a647c3ca0a45a9276cd42772fa9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_de07954018ae46028aadd5627cbe4d0c: 0
+    - Vector1_a785405586f048dabe5bb5be0d463c3b: 0.1
+    - Vector1_f8187a76b7db4f15ad907b2cdf6fe42b: 0
+    - Vector1_fce453ed633949eb906a0583f59aac3d: 0.5
+    m_Colors:
+    - Color_48591912734845fa8121d46a61f769bf: {r: 0, g: 0.8773585, b: 0.09079856, a: 1}
+    - Color_c0976ba64e934aa7a7955d7c042dc531: {r: 0.8396226, g: 0.21782663, b: 0.4297509, a: 1}
+    - Vector2_a7c95d2a29d7408e9535a53bce49b590: {r: 1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
